@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hasan — AI Systems Developer
 
-<!--
-**shhasan0777-cpu/shhasan0777-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет. Я **Хасан** — IT-специалист, разработчик и создатель AI-решений для бизнеса.
 
-Here are some ideas to get you started:
+Сейчас развиваю **InsightMotion AI** — интеллектуальную платформу для маркетплейс-бизнеса, задач, аналитики и AI-автоматизации.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Чем я занимаюсь
+
+- Разработка сайтов и веб-приложений
+- Telegram-боты и автоматизация
+- AI-интеграции
+- SaaS-системы
+- Marketplace tools
+- Внутренние IT-платформы
+
+---
+
+## Главный проект
+
+### InsightMotion AI
+
+AI-платформа для:
+
+- управления задачами;
+- аналитики;
+- SEO;
+- автоматизации;
+- AI-инструментов;
+- marketplace-систем.
+
+---
+
+## Технологии
+
+```txt
+Next.js · React · TypeScript · Tailwind CSS · Prisma · SQLite · Groq AI
+```
+
+---
+
+## Vision
+
+Создавать AI-системы, которые помогают бизнесу работать быстрее, умнее и эффективнее.
+
+---
+
+## Сейчас в работе
+
+- InsightMotion AI
+- AI tools
+- Marketplace automation
+- Telegram bots
+- SaaS interfaces
